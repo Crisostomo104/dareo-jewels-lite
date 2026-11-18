@@ -4,5 +4,6 @@
 data/*.sqlite*
 data/*.db
 *.log
+database/
 .DS_Store
 .vscode/sftp.json
