@@ -1,0 +1,9 @@
+.powered-trigger { border: 0; background: transparent; cursor: pointer; color: inherit; font: inherit; font-size: .85rem; padding: .25rem; }
+.powered-trigger strong { color: var(--gold-dark); }
+.powered-dialog { text-align: left; }
+.powered-dialog .eyebrow { margin-bottom: .3rem; }
+.powered-dialog h2 { font-size: 1.5rem; margin-bottom: .1rem; }
+.powered-close { position: absolute; top: .7rem; right: .9rem; }
+.powered-cards { display: grid; grid-template-columns: 1fr 1fr; gap: .5rem; margin: 1rem 0; }
+.powered-cards span { background: var(--cream); border-radius: 8px; padding: .6rem; font-size: .82rem; text-align: center; }
+.powered-actions { display: flex; gap: .6rem; flex-wrap: wrap; }
